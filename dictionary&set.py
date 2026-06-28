@@ -37,7 +37,6 @@ subject = {
 print(len(subject),"class is required for the student")
 
 my_dic = {}
-
 new_update = {
     'maths' : float(input("Enter the number of maths : ")),
     'science' : float(input("Enter the number of science : ")),
