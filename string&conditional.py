@@ -12,7 +12,7 @@ print(str[1:4])
 print(str[:4])
 print(str[1:])
 
-str = "I am studying python from ApnaCollege"
+str = "I am studying python from Youtube"
 print(str.capitalize())
 print(str.replace("o","a"))
 print(str.find("o"))
